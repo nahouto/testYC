@@ -1,4 +1,4 @@
-function  [handles,levels,parentIdx,listing] = findjobj(container,varargin) %#ok<*CTCH,*ASGLU,*MSNU,*NASGU>
+function     [handles,levels,parentIdx,listing] = findjobj(container,varargin) %#ok<*CTCH,*ASGLU,*MSNU,*NASGU>
 %findjobj Find java objects contained within a specified java container or Matlab GUI handle
 %
 % Syntax:
